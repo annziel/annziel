@@ -1,16 +1,28 @@
-### Hi there 👋
+```yaml
+say_hi_in_polish: Cześć! 👋
 
-<!--
-**annziel/annziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Anna Zielinska
 
-Here are some ideas to get you started:
+from: Wroclaw, Poland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: [ HTML, CSS, JavaScript ]
+
+education_and_experience:
+  - Control & Audit
+  - Internal Audit
+  - Public Administration procedures and law
+
+skills_used_in_coding:
+  - critical thinking
+  - bug finding
+  - learning new concepts
+  - ability to switch between being independent and collaborative
+
+my_travel_around_the_world:
+  - Athens, Greece (2 days)
+  - Sydney, Australia (4 weeks)
+  - Honolulu, USA (5 weeks)
+  - New York, USA (2 days)
+  - Madeira, Portugal (2 weeks)
+  - Warsaw, Poland (2 days)
+```
