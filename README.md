@@ -5,7 +5,7 @@ name: Anna Zielinska
 
 from: Wroclaw, Poland
 
-currently_learning: [ HTML, CSS, JavaScript, React ]
+currently_learning: [ HTML, CSS, JavaScript, React, Vue, TypeScript ]
 
 education_and_experience:
   - Control & Audit
